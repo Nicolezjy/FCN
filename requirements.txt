@@ -1,0 +1,1 @@
+python train.py --checkpoint_path ~/Desktop/Source/Python/source/10/fcn/vgg16.ckpt --output_dir  ~/Desktop/Source/Python/source/10/fcn/output --data_train  ~/Desktop/Source/Python/source/10/fcn/fcn_train.record --data_val  ~/Desktop/Source/Python/source/10/fcn/fcn_val.record --batch_size 16 --max_steps 1000
